@@ -1,0 +1,806 @@
+{
+  "heaps_points": [
+    {
+      "corpus_size": 332607,
+      "n_unique": 3081
+    },
+    {
+      "corpus_size": 1000852,
+      "n_unique": 3517
+    },
+    {
+      "corpus_size": 2004053,
+      "n_unique": 3644
+    },
+    {
+      "corpus_size": 3010788,
+      "n_unique": 3680
+    },
+    {
+      "corpus_size": 4013919,
+      "n_unique": 3705
+    },
+    {
+      "corpus_size": 4684130,
+      "n_unique": 3718
+    },
+    {
+      "corpus_size": 5681900,
+      "n_unique": 3732
+    },
+    {
+      "corpus_size": 6672337,
+      "n_unique": 3741
+    },
+    {
+      "corpus_size": 7383531,
+      "n_unique": 3758
+    },
+    {
+      "corpus_size": 7489484,
+      "n_unique": 3764
+    },
+    {
+      "corpus_size": 7648945,
+      "n_unique": 3766
+    },
+    {
+      "corpus_size": 7811527,
+      "n_unique": 3769
+    },
+    {
+      "corpus_size": 7969506,
+      "n_unique": 3772
+    },
+    {
+      "corpus_size": 8078737,
+      "n_unique": 3773
+    },
+    {
+      "corpus_size": 8237789,
+      "n_unique": 3777
+    },
+    {
+      "corpus_size": 8395659,
+      "n_unique": 3778
+    },
+    {
+      "corpus_size": 8552212,
+      "n_unique": 3783
+    },
+    {
+      "corpus_size": 8654209,
+      "n_unique": 3783
+    },
+    {
+      "corpus_size": 8810195,
+      "n_unique": 3783
+    },
+    {
+      "corpus_size": 8968812,
+      "n_unique": 3783
+    },
+    {
+      "corpus_size": 9125995,
+      "n_unique": 3783
+    },
+    {
+      "corpus_size": 9231363,
+      "n_unique": 3783
+    },
+    {
+      "corpus_size": 9393215,
+      "n_unique": 3784
+    },
+    {
+      "corpus_size": 9564576,
+      "n_unique": 3784
+    },
+    {
+      "corpus_size": 9732745,
+      "n_unique": 3786
+    },
+    {
+      "corpus_size": 9843391,
+      "n_unique": 3787
+    },
+    {
+      "corpus_size": 10002249,
+      "n_unique": 3788
+    },
+    {
+      "corpus_size": 10160050,
+      "n_unique": 3789
+    },
+    {
+      "corpus_size": 10322895,
+      "n_unique": 3789
+    },
+    {
+      "corpus_size": 10482294,
+      "n_unique": 3790
+    },
+    {
+      "corpus_size": 10590180,
+      "n_unique": 3791
+    },
+    {
+      "corpus_size": 10751851,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 10819831,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 10886958,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 10932868,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 11000623,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 11068322,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 11135746,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 11180386,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 11247672,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 11314646,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 11381490,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 11426010,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 11493181,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 11559863,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 11627045,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 11674131,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 11745005,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 11813505,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 11879841,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 11924057,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 11990852,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 12056829,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 12122865,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 12167323,
+      "n_unique": 3792
+    },
+    {
+      "corpus_size": 15306616,
+      "n_unique": 3797
+    },
+    {
+      "corpus_size": 15413827,
+      "n_unique": 3851
+    },
+    {
+      "corpus_size": 15520706,
+      "n_unique": 3865
+    },
+    {
+      "corpus_size": 15628376,
+      "n_unique": 3871
+    },
+    {
+      "corpus_size": 15700826,
+      "n_unique": 3876
+    },
+    {
+      "corpus_size": 15810465,
+      "n_unique": 3885
+    },
+    {
+      "corpus_size": 15919217,
+      "n_unique": 3889
+    },
+    {
+      "corpus_size": 16024665,
+      "n_unique": 3896
+    },
+    {
+      "corpus_size": 16093698,
+      "n_unique": 3898
+    },
+    {
+      "corpus_size": 16190593,
+      "n_unique": 3904
+    },
+    {
+      "corpus_size": 16293439,
+      "n_unique": 3904
+    },
+    {
+      "corpus_size": 16396343,
+      "n_unique": 3904
+    },
+    {
+      "corpus_size": 16464169,
+      "n_unique": 3907
+    },
+    {
+      "corpus_size": 16565513,
+      "n_unique": 3912
+    },
+    {
+      "corpus_size": 16675358,
+      "n_unique": 3914
+    },
+    {
+      "corpus_size": 16784051,
+      "n_unique": 3915
+    },
+    {
+      "corpus_size": 16863104,
+      "n_unique": 3915
+    },
+    {
+      "corpus_size": 16970791,
+      "n_unique": 3916
+    },
+    {
+      "corpus_size": 17077861,
+      "n_unique": 3917
+    },
+    {
+      "corpus_size": 17186265,
+      "n_unique": 3917
+    },
+    {
+      "corpus_size": 17257429,
+      "n_unique": 3917
+    },
+    {
+      "corpus_size": 17359112,
+      "n_unique": 3917
+    },
+    {
+      "corpus_size": 17462177,
+      "n_unique": 3918
+    },
+    {
+      "corpus_size": 17560993,
+      "n_unique": 3919
+    },
+    {
+      "corpus_size": 17629153,
+      "n_unique": 3919
+    },
+    {
+      "corpus_size": 17732883,
+      "n_unique": 3920
+    },
+    {
+      "corpus_size": 17837257,
+      "n_unique": 3921
+    },
+    {
+      "corpus_size": 17941498,
+      "n_unique": 3921
+    },
+    {
+      "corpus_size": 18010438,
+      "n_unique": 3922
+    },
+    {
+      "corpus_size": 18108004,
+      "n_unique": 3923
+    },
+    {
+      "corpus_size": 18204087,
+      "n_unique": 3926
+    },
+    {
+      "corpus_size": 18306473,
+      "n_unique": 3927
+    },
+    {
+      "corpus_size": 18407594,
+      "n_unique": 3930
+    },
+    {
+      "corpus_size": 18477032,
+      "n_unique": 3931
+    },
+    {
+      "corpus_size": 18579540,
+      "n_unique": 3931
+    },
+    {
+      "corpus_size": 18676109,
+      "n_unique": 3931
+    },
+    {
+      "corpus_size": 18772388,
+      "n_unique": 3931
+    },
+    {
+      "corpus_size": 18836730,
+      "n_unique": 3931
+    },
+    {
+      "corpus_size": 18941421,
+      "n_unique": 3932
+    },
+    {
+      "corpus_size": 19046844,
+      "n_unique": 3933
+    },
+    {
+      "corpus_size": 19154307,
+      "n_unique": 3933
+    },
+    {
+      "corpus_size": 19221559,
+      "n_unique": 3934
+    },
+    {
+      "corpus_size": 19319605,
+      "n_unique": 3934
+    },
+    {
+      "corpus_size": 19419174,
+      "n_unique": 3934
+    },
+    {
+      "corpus_size": 19521872,
+      "n_unique": 3935
+    },
+    {
+      "corpus_size": 19590355,
+      "n_unique": 3935
+    },
+    {
+      "corpus_size": 19698015,
+      "n_unique": 3936
+    },
+    {
+      "corpus_size": 19806321,
+      "n_unique": 3936
+    },
+    {
+      "corpus_size": 19909921,
+      "n_unique": 3936
+    },
+    {
+      "corpus_size": 19975342,
+      "n_unique": 3936
+    },
+    {
+      "corpus_size": 20075525,
+      "n_unique": 3936
+    },
+    {
+      "corpus_size": 20178839,
+      "n_unique": 3936
+    },
+    {
+      "corpus_size": 20281177,
+      "n_unique": 3936
+    },
+    {
+      "corpus_size": 20348032,
+      "n_unique": 3936
+    },
+    {
+      "corpus_size": 20448423,
+      "n_unique": 3936
+    },
+    {
+      "corpus_size": 20546403,
+      "n_unique": 3936
+    },
+    {
+      "corpus_size": 20645996,
+      "n_unique": 3936
+    },
+    {
+      "corpus_size": 20713497,
+      "n_unique": 3936
+    },
+    {
+      "corpus_size": 20816481,
+      "n_unique": 3936
+    },
+    {
+      "corpus_size": 20919659,
+      "n_unique": 3936
+    },
+    {
+      "corpus_size": 21025980,
+      "n_unique": 3936
+    },
+    {
+      "corpus_size": 21130976,
+      "n_unique": 3936
+    },
+    {
+      "corpus_size": 21201300,
+      "n_unique": 3936
+    },
+    {
+      "corpus_size": 21300628,
+      "n_unique": 3936
+    },
+    {
+      "corpus_size": 21400755,
+      "n_unique": 3936
+    },
+    {
+      "corpus_size": 21498768,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 21564260,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 21666376,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 21765615,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 22071774,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 22546477,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 23274860,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 24010770,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 24730489,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 25208370,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 25926951,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 26649246,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 27392905,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 27894148,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 28648098,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 29394401,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 30101234,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 30570213,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 31275658,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 31981710,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 32682353,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 33146420,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 33851225,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 34554440,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 35270639,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 35973984,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 36444054,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 37143536,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 37817279,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 38505516,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 38966628,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 39640450,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 40323743,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 41002886,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 41450188,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 42133937,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 42820513,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 43501700,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 43951447,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 44639976,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 45369965,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 46104027,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 46600406,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 47323498,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 48048656,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 48765134,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 49247881,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 49976310,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 50698027,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 51417690,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 51898552,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 52587319,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 53282019,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 53980562,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 54646370,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 55106303,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 55800573,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 56447453,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 57131360,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 57604058,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 58244848,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 58919887,
+      "n_unique": 3937
+    },
+    {
+      "corpus_size": 59373322,
+      "n_unique": 4078
+    },
+    {
+      "corpus_size": 59418389,
+      "n_unique": 4093
+    },
+    {
+      "corpus_size": 59508097,
+      "n_unique": 4096
+    },
+    {
+      "corpus_size": 59570920,
+      "n_unique": 4096
+    },
+    {
+      "corpus_size": 59666179,
+      "n_unique": 4096
+    },
+    {
+      "corpus_size": 59732838,
+      "n_unique": 4096
+    },
+    {
+      "corpus_size": 59792049,
+      "n_unique": 4096
+    },
+    {
+      "corpus_size": 59883867,
+      "n_unique": 4096
+    },
+    {
+      "corpus_size": 59992117,
+      "n_unique": 4096
+    },
+    {
+      "corpus_size": 60067724,
+      "n_unique": 4096
+    },
+    {
+      "corpus_size": 60173007,
+      "n_unique": 4096
+    },
+    {
+      "corpus_size": 60284683,
+      "n_unique": 4096
+    },
+    {
+      "corpus_size": 60376995,
+      "n_unique": 4096
+    },
+    {
+      "corpus_size": 60416762,
+      "n_unique": 4096
+    },
+    {
+      "corpus_size": 60482945,
+      "n_unique": 4096
+    },
+    {
+      "corpus_size": 60575714,
+      "n_unique": 4096
+    },
+    {
+      "corpus_size": 60650707,
+      "n_unique": 4096
+    },
+    {
+      "corpus_size": 60697932,
+      "n_unique": 4096
+    }
+  ],
+  "final_unique": 4096,
+  "final_size": 60697932
+}

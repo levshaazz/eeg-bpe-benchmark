@@ -1,0 +1,266 @@
+[
+  {
+    "step": 1,
+    "pair": [
+      53,
+      15
+    ],
+    "new_id": 64,
+    "pair_count": 15,
+    "total_tokens": 19985,
+    "compression": 1.0008,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 4,
+    "pair": [
+      25,
+      47
+    ],
+    "new_id": 67,
+    "pair_count": 13,
+    "total_tokens": 19945,
+    "compression": 1.0028,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 7,
+    "pair": [
+      15,
+      53
+    ],
+    "new_id": 70,
+    "pair_count": 12,
+    "total_tokens": 19907,
+    "compression": 1.0047,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 10,
+    "pair": [
+      27,
+      52
+    ],
+    "new_id": 73,
+    "pair_count": 12,
+    "total_tokens": 19871,
+    "compression": 1.0065,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 13,
+    "pair": [
+      47,
+      44
+    ],
+    "new_id": 76,
+    "pair_count": 12,
+    "total_tokens": 19835,
+    "compression": 1.0083,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 16,
+    "pair": [
+      4,
+      19
+    ],
+    "new_id": 79,
+    "pair_count": 11,
+    "total_tokens": 19800,
+    "compression": 1.0101,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 19,
+    "pair": [
+      7,
+      28
+    ],
+    "new_id": 82,
+    "pair_count": 11,
+    "total_tokens": 19767,
+    "compression": 1.0118,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 22,
+    "pair": [
+      20,
+      25
+    ],
+    "new_id": 85,
+    "pair_count": 11,
+    "total_tokens": 19734,
+    "compression": 1.0135,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 25,
+    "pair": [
+      24,
+      1
+    ],
+    "new_id": 88,
+    "pair_count": 11,
+    "total_tokens": 19701,
+    "compression": 1.0152,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 28,
+    "pair": [
+      32,
+      0
+    ],
+    "new_id": 91,
+    "pair_count": 11,
+    "total_tokens": 19668,
+    "compression": 1.0169,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 31,
+    "pair": [
+      44,
+      22
+    ],
+    "new_id": 94,
+    "pair_count": 11,
+    "total_tokens": 19635,
+    "compression": 1.0186,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 34,
+    "pair": [
+      46,
+      30
+    ],
+    "new_id": 97,
+    "pair_count": 11,
+    "total_tokens": 19602,
+    "compression": 1.0203,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 37,
+    "pair": [
+      54,
+      15
+    ],
+    "new_id": 100,
+    "pair_count": 11,
+    "total_tokens": 19569,
+    "compression": 1.022,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 40,
+    "pair": [
+      58,
+      46
+    ],
+    "new_id": 103,
+    "pair_count": 11,
+    "total_tokens": 19536,
+    "compression": 1.0238,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 43,
+    "pair": [
+      0,
+      16
+    ],
+    "new_id": 106,
+    "pair_count": 10,
+    "total_tokens": 19505,
+    "compression": 1.0254,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 46,
+    "pair": [
+      8,
+      25
+    ],
+    "new_id": 109,
+    "pair_count": 10,
+    "total_tokens": 19475,
+    "compression": 1.027,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 49,
+    "pair": [
+      12,
+      55
+    ],
+    "new_id": 112,
+    "pair_count": 10,
+    "total_tokens": 19445,
+    "compression": 1.0285,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 52,
+    "pair": [
+      34,
+      18
+    ],
+    "new_id": 115,
+    "pair_count": 10,
+    "total_tokens": 19415,
+    "compression": 1.0301,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 55,
+    "pair": [
+      40,
+      9
+    ],
+    "new_id": 118,
+    "pair_count": 10,
+    "total_tokens": 19385,
+    "compression": 1.0317,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 58,
+    "pair": [
+      44,
+      31
+    ],
+    "new_id": 121,
+    "pair_count": 10,
+    "total_tokens": 19355,
+    "compression": 1.0333,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 61,
+    "pair": [
+      58,
+      4
+    ],
+    "new_id": 124,
+    "pair_count": 10,
+    "total_tokens": 19325,
+    "compression": 1.0349,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 64,
+    "pair": [
+      62,
+      8
+    ],
+    "new_id": 127,
+    "pair_count": 10,
+    "total_tokens": 19295,
+    "compression": 1.0365,
+    "elapsed_s": 0.0
+  }
+]

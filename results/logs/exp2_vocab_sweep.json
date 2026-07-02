@@ -1,0 +1,722 @@
+[
+  {
+    "dataset": "bci_iv_2a",
+    "vocab_size": 1024,
+    "seed": 42,
+    "accuracy_mean": 0.27237654320987653,
+    "balanced_accuracy_mean": 0.27237654320987653,
+    "kappa_mean": 0.029835390946502068
+  },
+  {
+    "dataset": "bci_iv_2a",
+    "vocab_size": 1024,
+    "seed": 123,
+    "accuracy_mean": 0.2712191358024691,
+    "balanced_accuracy_mean": 0.2712191358024691,
+    "kappa_mean": 0.028292181069958837
+  },
+  {
+    "dataset": "bci_iv_2a",
+    "vocab_size": 1024,
+    "seed": 456,
+    "accuracy_mean": 0.27295524691358025,
+    "balanced_accuracy_mean": 0.27295524691358025,
+    "kappa_mean": 0.03060699588477367
+  },
+  {
+    "dataset": "bci_iv_2a",
+    "vocab_size": 1024,
+    "seed": 789,
+    "accuracy_mean": 0.27314814814814814,
+    "balanced_accuracy_mean": 0.27314814814814814,
+    "kappa_mean": 0.0308641975308642
+  },
+  {
+    "dataset": "bci_iv_2a",
+    "vocab_size": 1024,
+    "seed": 2024,
+    "accuracy_mean": 0.27179783950617287,
+    "balanced_accuracy_mean": 0.27179783950617287,
+    "kappa_mean": 0.02906378600823044
+  },
+  {
+    "dataset": "physionet_mi",
+    "vocab_size": 1024,
+    "seed": 42,
+    "accuracy_mean": 0.322746868225938,
+    "balanced_accuracy_mean": 0.3228890109412902,
+    "kappa_mean": 0.09709094461590766
+  },
+  {
+    "dataset": "physionet_mi",
+    "vocab_size": 1024,
+    "seed": 123,
+    "accuracy_mean": 0.3150669577091179,
+    "balanced_accuracy_mean": 0.3151894324366847,
+    "kappa_mean": 0.08677022571048035
+  },
+  {
+    "dataset": "physionet_mi",
+    "vocab_size": 1024,
+    "seed": 456,
+    "accuracy_mean": 0.3237155774227455,
+    "balanced_accuracy_mean": 0.32381872323207633,
+    "kappa_mean": 0.09837280382247218
+  },
+  {
+    "dataset": "physionet_mi",
+    "vocab_size": 1024,
+    "seed": 789,
+    "accuracy_mean": 0.3222712898204692,
+    "balanced_accuracy_mean": 0.32222990545117314,
+    "kappa_mean": 0.09628313034765101
+  },
+  {
+    "dataset": "physionet_mi",
+    "vocab_size": 1024,
+    "seed": 2024,
+    "accuracy_mean": 0.31879258083640316,
+    "balanced_accuracy_mean": 0.3188795427621517,
+    "kappa_mean": 0.09173650898947627
+  },
+  {
+    "dataset": "sleep_edf",
+    "vocab_size": 1024,
+    "seed": 42,
+    "accuracy_mean": 0.7313849981771261,
+    "balanced_accuracy_mean": 0.5642601322336553,
+    "kappa_mean": 0.5158424056608935
+  },
+  {
+    "dataset": "sleep_edf",
+    "vocab_size": 1024,
+    "seed": 123,
+    "accuracy_mean": 0.7204004054392216,
+    "balanced_accuracy_mean": 0.596177196730584,
+    "kappa_mean": 0.5063650438411958
+  },
+  {
+    "dataset": "sleep_edf",
+    "vocab_size": 1024,
+    "seed": 456,
+    "accuracy_mean": 0.7042798250568839,
+    "balanced_accuracy_mean": 0.5900550114535517,
+    "kappa_mean": 0.48488999508214603
+  },
+  {
+    "dataset": "sleep_edf",
+    "vocab_size": 1024,
+    "seed": 789,
+    "accuracy_mean": 0.7073145451414072,
+    "balanced_accuracy_mean": 0.5834350258358537,
+    "kappa_mean": 0.4925013359719676
+  },
+  {
+    "dataset": "sleep_edf",
+    "vocab_size": 1024,
+    "seed": 2024,
+    "accuracy_mean": 0.721174181808055,
+    "balanced_accuracy_mean": 0.5963404269684318,
+    "kappa_mean": 0.5143918015588212
+  },
+  {
+    "dataset": "mental_arithmetic",
+    "vocab_size": 1024,
+    "seed": 42,
+    "accuracy_mean": 0.6074999999999999,
+    "balanced_accuracy_mean": 0.6074999999999999,
+    "kappa_mean": 0.21500000000000002
+  },
+  {
+    "dataset": "mental_arithmetic",
+    "vocab_size": 1024,
+    "seed": 123,
+    "accuracy_mean": 0.5939285714285714,
+    "balanced_accuracy_mean": 0.5939285714285714,
+    "kappa_mean": 0.18785714285714283
+  },
+  {
+    "dataset": "mental_arithmetic",
+    "vocab_size": 1024,
+    "seed": 456,
+    "accuracy_mean": 0.591547619047619,
+    "balanced_accuracy_mean": 0.591547619047619,
+    "kappa_mean": 0.18309523809523812
+  },
+  {
+    "dataset": "mental_arithmetic",
+    "vocab_size": 1024,
+    "seed": 789,
+    "accuracy_mean": 0.5828571428571429,
+    "balanced_accuracy_mean": 0.5828571428571429,
+    "kappa_mean": 0.1657142857142857
+  },
+  {
+    "dataset": "mental_arithmetic",
+    "vocab_size": 1024,
+    "seed": 2024,
+    "accuracy_mean": 0.5996428571428571,
+    "balanced_accuracy_mean": 0.5996428571428571,
+    "kappa_mean": 0.1992857142857143
+  },
+  {
+    "dataset": "epfl_p300",
+    "vocab_size": 1024,
+    "seed": 42,
+    "accuracy_mean": 0.6138310185185184,
+    "balanced_accuracy_mean": 0.5312152777777778,
+    "kappa_mean": 0.041157392300008276
+  },
+  {
+    "dataset": "epfl_p300",
+    "vocab_size": 1024,
+    "seed": 123,
+    "accuracy_mean": 0.6136574074074075,
+    "balanced_accuracy_mean": 0.5308333333333334,
+    "kappa_mean": 0.04064579877617991
+  },
+  {
+    "dataset": "epfl_p300",
+    "vocab_size": 1024,
+    "seed": 456,
+    "accuracy_mean": 0.6135416666666667,
+    "balanced_accuracy_mean": 0.5304861111111111,
+    "kappa_mean": 0.04013441065473029
+  },
+  {
+    "dataset": "epfl_p300",
+    "vocab_size": 1024,
+    "seed": 789,
+    "accuracy_mean": 0.6130208333333332,
+    "balanced_accuracy_mean": 0.5301736111111112,
+    "kappa_mean": 0.039684135229396386
+  },
+  {
+    "dataset": "epfl_p300",
+    "vocab_size": 1024,
+    "seed": 2024,
+    "accuracy_mean": 0.6131365740740742,
+    "balanced_accuracy_mean": 0.5305208333333333,
+    "kappa_mean": 0.04018681097476662
+  },
+  {
+    "dataset": "ssvep_nakanishi",
+    "vocab_size": 1024,
+    "seed": 42,
+    "accuracy_mean": 0.08024691358024691,
+    "balanced_accuracy_mean": 0.08024691358024691,
+    "kappa_mean": -0.0033670033670033764
+  },
+  {
+    "dataset": "ssvep_nakanishi",
+    "vocab_size": 1024,
+    "seed": 123,
+    "accuracy_mean": 0.08024691358024691,
+    "balanced_accuracy_mean": 0.08024691358024691,
+    "kappa_mean": -0.003367003367003401
+  },
+  {
+    "dataset": "ssvep_nakanishi",
+    "vocab_size": 1024,
+    "seed": 456,
+    "accuracy_mean": 0.07901234567901234,
+    "balanced_accuracy_mean": 0.07901234567901234,
+    "kappa_mean": -0.0047138047138047074
+  },
+  {
+    "dataset": "ssvep_nakanishi",
+    "vocab_size": 1024,
+    "seed": 789,
+    "accuracy_mean": 0.07901234567901234,
+    "balanced_accuracy_mean": 0.07901234567901233,
+    "kappa_mean": -0.0047138047138047074
+  },
+  {
+    "dataset": "ssvep_nakanishi",
+    "vocab_size": 1024,
+    "seed": 2024,
+    "accuracy_mean": 0.07962962962962963,
+    "balanced_accuracy_mean": 0.07962962962962963,
+    "kappa_mean": -0.004040404040404054
+  },
+  {
+    "dataset": "bci_iv_2a",
+    "vocab_size": 2048,
+    "seed": 42,
+    "accuracy_mean": 0.2717978395061728,
+    "balanced_accuracy_mean": 0.2717978395061728,
+    "kappa_mean": 0.029063786008230428
+  },
+  {
+    "dataset": "bci_iv_2a",
+    "vocab_size": 2048,
+    "seed": 123,
+    "accuracy_mean": 0.2706404320987654,
+    "balanced_accuracy_mean": 0.2706404320987654,
+    "kappa_mean": 0.02752057613168722
+  },
+  {
+    "dataset": "bci_iv_2a",
+    "vocab_size": 2048,
+    "seed": 456,
+    "accuracy_mean": 0.2702546296296296,
+    "balanced_accuracy_mean": 0.2702546296296296,
+    "kappa_mean": 0.027006172839506164
+  },
+  {
+    "dataset": "bci_iv_2a",
+    "vocab_size": 2048,
+    "seed": 789,
+    "accuracy_mean": 0.2717978395061728,
+    "balanced_accuracy_mean": 0.2717978395061728,
+    "kappa_mean": 0.029063786008230452
+  },
+  {
+    "dataset": "bci_iv_2a",
+    "vocab_size": 2048,
+    "seed": 2024,
+    "accuracy_mean": 0.2725694444444444,
+    "balanced_accuracy_mean": 0.2725694444444445,
+    "kappa_mean": 0.030092592592592574
+  },
+  {
+    "dataset": "physionet_mi",
+    "vocab_size": 2048,
+    "seed": 42,
+    "accuracy_mean": 0.32257609958022476,
+    "balanced_accuracy_mean": 0.32268448091774155,
+    "kappa_mean": 0.09684239610422847
+  },
+  {
+    "dataset": "physionet_mi",
+    "vocab_size": 2048,
+    "seed": 123,
+    "accuracy_mean": 0.31567285720066834,
+    "balanced_accuracy_mean": 0.3157731772166152,
+    "kappa_mean": 0.08757623496683609
+  },
+  {
+    "dataset": "physionet_mi",
+    "vocab_size": 2048,
+    "seed": 456,
+    "accuracy_mean": 0.32120937585163883,
+    "balanced_accuracy_mean": 0.3213019915765499,
+    "kappa_mean": 0.0950055892855282
+  },
+  {
+    "dataset": "physionet_mi",
+    "vocab_size": 2048,
+    "seed": 789,
+    "accuracy_mean": 0.32150515005517555,
+    "balanced_accuracy_mean": 0.3214423926233796,
+    "kappa_mean": 0.09525308596893112
+  },
+  {
+    "dataset": "physionet_mi",
+    "vocab_size": 2048,
+    "seed": 2024,
+    "accuracy_mean": 0.3185186537483472,
+    "balanced_accuracy_mean": 0.3185779378487928,
+    "kappa_mean": 0.09136358640607083
+  },
+  {
+    "dataset": "sleep_edf",
+    "vocab_size": 2048,
+    "seed": 42,
+    "accuracy_mean": 0.7334918585261863,
+    "balanced_accuracy_mean": 0.6020359010156842,
+    "kappa_mean": 0.5221343373884603
+  },
+  {
+    "dataset": "sleep_edf",
+    "vocab_size": 2048,
+    "seed": 123,
+    "accuracy_mean": 0.6969221054696562,
+    "balanced_accuracy_mean": 0.5863694573323747,
+    "kappa_mean": 0.4819809098985345
+  },
+  {
+    "dataset": "sleep_edf",
+    "vocab_size": 2048,
+    "seed": 456,
+    "accuracy_mean": 0.7280322029976167,
+    "balanced_accuracy_mean": 0.6067201017213737,
+    "kappa_mean": 0.5204349560850479
+  },
+  {
+    "dataset": "sleep_edf",
+    "vocab_size": 2048,
+    "seed": 789,
+    "accuracy_mean": 0.7299708539366102,
+    "balanced_accuracy_mean": 0.5716175380392532,
+    "kappa_mean": 0.5239305660652727
+  },
+  {
+    "dataset": "sleep_edf",
+    "vocab_size": 2048,
+    "seed": 2024,
+    "accuracy_mean": 0.7152126245773884,
+    "balanced_accuracy_mean": 0.5957446779271448,
+    "kappa_mean": 0.505224550251571
+  },
+  {
+    "dataset": "mental_arithmetic",
+    "vocab_size": 2048,
+    "seed": 42,
+    "accuracy_mean": 0.6105952380952381,
+    "balanced_accuracy_mean": 0.6105952380952381,
+    "kappa_mean": 0.22119047619047622
+  },
+  {
+    "dataset": "mental_arithmetic",
+    "vocab_size": 2048,
+    "seed": 123,
+    "accuracy_mean": 0.5861904761904763,
+    "balanced_accuracy_mean": 0.5861904761904762,
+    "kappa_mean": 0.17238095238095236
+  },
+  {
+    "dataset": "mental_arithmetic",
+    "vocab_size": 2048,
+    "seed": 456,
+    "accuracy_mean": 0.5867857142857142,
+    "balanced_accuracy_mean": 0.5867857142857142,
+    "kappa_mean": 0.17357142857142854
+  },
+  {
+    "dataset": "mental_arithmetic",
+    "vocab_size": 2048,
+    "seed": 789,
+    "accuracy_mean": 0.5829761904761904,
+    "balanced_accuracy_mean": 0.5829761904761905,
+    "kappa_mean": 0.16595238095238093
+  },
+  {
+    "dataset": "mental_arithmetic",
+    "vocab_size": 2048,
+    "seed": 2024,
+    "accuracy_mean": 0.5977380952380952,
+    "balanced_accuracy_mean": 0.5977380952380952,
+    "kappa_mean": 0.19547619047619047
+  },
+  {
+    "dataset": "epfl_p300",
+    "vocab_size": 2048,
+    "seed": 42,
+    "accuracy_mean": 0.6063657407407407,
+    "balanced_accuracy_mean": 0.5254861111111111,
+    "kappa_mean": 0.03269598178776652
+  },
+  {
+    "dataset": "epfl_p300",
+    "vocab_size": 2048,
+    "seed": 123,
+    "accuracy_mean": 0.6060185185185186,
+    "balanced_accuracy_mean": 0.5254166666666666,
+    "kappa_mean": 0.03257136052179245
+  },
+  {
+    "dataset": "epfl_p300",
+    "vocab_size": 2048,
+    "seed": 456,
+    "accuracy_mean": 0.6071180555555556,
+    "balanced_accuracy_mean": 0.5256597222222222,
+    "kappa_mean": 0.032946530710099765
+  },
+  {
+    "dataset": "epfl_p300",
+    "vocab_size": 2048,
+    "seed": 789,
+    "accuracy_mean": 0.6060185185185186,
+    "balanced_accuracy_mean": 0.5258333333333334,
+    "kappa_mean": 0.03316988384893097
+  },
+  {
+    "dataset": "epfl_p300",
+    "vocab_size": 2048,
+    "seed": 2024,
+    "accuracy_mean": 0.6061921296296295,
+    "balanced_accuracy_mean": 0.5253819444444444,
+    "kappa_mean": 0.03250693073432857
+  },
+  {
+    "dataset": "ssvep_nakanishi",
+    "vocab_size": 2048,
+    "seed": 42,
+    "accuracy_mean": 0.08148148148148149,
+    "balanced_accuracy_mean": 0.08148148148148149,
+    "kappa_mean": -0.0020202020202020085
+  },
+  {
+    "dataset": "ssvep_nakanishi",
+    "vocab_size": 2048,
+    "seed": 123,
+    "accuracy_mean": 0.08024691358024691,
+    "balanced_accuracy_mean": 0.08024691358024692,
+    "kappa_mean": -0.0033670033670033395
+  },
+  {
+    "dataset": "ssvep_nakanishi",
+    "vocab_size": 2048,
+    "seed": 456,
+    "accuracy_mean": 0.07962962962962963,
+    "balanced_accuracy_mean": 0.07962962962962963,
+    "kappa_mean": -0.004040404040404042
+  },
+  {
+    "dataset": "ssvep_nakanishi",
+    "vocab_size": 2048,
+    "seed": 789,
+    "accuracy_mean": 0.07962962962962963,
+    "balanced_accuracy_mean": 0.07962962962962963,
+    "kappa_mean": -0.004040404040404017
+  },
+  {
+    "dataset": "ssvep_nakanishi",
+    "vocab_size": 2048,
+    "seed": 2024,
+    "accuracy_mean": 0.08024691358024692,
+    "balanced_accuracy_mean": 0.08024691358024691,
+    "kappa_mean": -0.003367003367003364
+  },
+  {
+    "dataset": "bci_iv_2a",
+    "vocab_size": 4096,
+    "seed": 42,
+    "accuracy_mean": 0.27141203703703703,
+    "balanced_accuracy_mean": 0.27141203703703703,
+    "kappa_mean": 0.02854938271604938
+  },
+  {
+    "dataset": "bci_iv_2a",
+    "vocab_size": 4096,
+    "seed": 123,
+    "accuracy_mean": 0.27218364197530864,
+    "balanced_accuracy_mean": 0.27218364197530864,
+    "kappa_mean": 0.029578189300411513
+  },
+  {
+    "dataset": "bci_iv_2a",
+    "vocab_size": 4096,
+    "seed": 456,
+    "accuracy_mean": 0.2708333333333333,
+    "balanced_accuracy_mean": 0.2708333333333333,
+    "kappa_mean": 0.027777777777777752
+  },
+  {
+    "dataset": "bci_iv_2a",
+    "vocab_size": 4096,
+    "seed": 789,
+    "accuracy_mean": 0.27141203703703703,
+    "balanced_accuracy_mean": 0.27141203703703703,
+    "kappa_mean": 0.028549382716049357
+  },
+  {
+    "dataset": "bci_iv_2a",
+    "vocab_size": 4096,
+    "seed": 2024,
+    "accuracy_mean": 0.271412037037037,
+    "balanced_accuracy_mean": 0.27141203703703703,
+    "kappa_mean": 0.02854938271604938
+  },
+  {
+    "dataset": "physionet_mi",
+    "vocab_size": 4096,
+    "seed": 42,
+    "accuracy_mean": 0.3253627391185581,
+    "balanced_accuracy_mean": 0.32549519476616473,
+    "kappa_mean": 0.10057885139948415
+  },
+  {
+    "dataset": "physionet_mi",
+    "vocab_size": 4096,
+    "seed": 123,
+    "accuracy_mean": 0.31596573293028246,
+    "balanced_accuracy_mean": 0.3160639725895482,
+    "kappa_mean": 0.08796593213895947
+  },
+  {
+    "dataset": "physionet_mi",
+    "vocab_size": 4096,
+    "seed": 456,
+    "accuracy_mean": 0.3201534723497149,
+    "balanced_accuracy_mean": 0.32024348137339465,
+    "kappa_mean": 0.09360207257880652
+  },
+  {
+    "dataset": "physionet_mi",
+    "vocab_size": 4096,
+    "seed": 789,
+    "accuracy_mean": 0.3219926648319646,
+    "balanced_accuracy_mean": 0.3219379098124733,
+    "kappa_mean": 0.09590987677145195
+  },
+  {
+    "dataset": "physionet_mi",
+    "vocab_size": 4096,
+    "seed": 2024,
+    "accuracy_mean": 0.3182507799338197,
+    "balanced_accuracy_mean": 0.3183116516493656,
+    "kappa_mean": 0.0909990182527313
+  },
+  {
+    "dataset": "sleep_edf",
+    "vocab_size": 4096,
+    "seed": 42,
+    "accuracy_mean": 0.6440486228298582,
+    "balanced_accuracy_mean": 0.5412449176569997,
+    "kappa_mean": 0.41837145149713856
+  },
+  {
+    "dataset": "sleep_edf",
+    "vocab_size": 4096,
+    "seed": 123,
+    "accuracy_mean": 0.7144878277941097,
+    "balanced_accuracy_mean": 0.5830049878737589,
+    "kappa_mean": 0.498771995802783
+  },
+  {
+    "dataset": "sleep_edf",
+    "vocab_size": 4096,
+    "seed": 456,
+    "accuracy_mean": 0.7220512417465828,
+    "balanced_accuracy_mean": 0.5940748562286545,
+    "kappa_mean": 0.5139821239329269
+  },
+  {
+    "dataset": "sleep_edf",
+    "vocab_size": 4096,
+    "seed": 789,
+    "accuracy_mean": 0.7117675252461403,
+    "balanced_accuracy_mean": 0.5961276740235345,
+    "kappa_mean": 0.5009166386140795
+  },
+  {
+    "dataset": "sleep_edf",
+    "vocab_size": 4096,
+    "seed": 2024,
+    "accuracy_mean": 0.7046901288160531,
+    "balanced_accuracy_mean": 0.5903076887649601,
+    "kappa_mean": 0.49845627794480746
+  },
+  {
+    "dataset": "mental_arithmetic",
+    "vocab_size": 4096,
+    "seed": 42,
+    "accuracy_mean": 0.6135714285714285,
+    "balanced_accuracy_mean": 0.6135714285714285,
+    "kappa_mean": 0.22714285714285715
+  },
+  {
+    "dataset": "mental_arithmetic",
+    "vocab_size": 4096,
+    "seed": 123,
+    "accuracy_mean": 0.598452380952381,
+    "balanced_accuracy_mean": 0.598452380952381,
+    "kappa_mean": 0.19690476190476192
+  },
+  {
+    "dataset": "mental_arithmetic",
+    "vocab_size": 4096,
+    "seed": 456,
+    "accuracy_mean": 0.6008333333333333,
+    "balanced_accuracy_mean": 0.6008333333333333,
+    "kappa_mean": 0.20166666666666666
+  },
+  {
+    "dataset": "mental_arithmetic",
+    "vocab_size": 4096,
+    "seed": 789,
+    "accuracy_mean": 0.5788095238095238,
+    "balanced_accuracy_mean": 0.5788095238095238,
+    "kappa_mean": 0.15761904761904763
+  },
+  {
+    "dataset": "mental_arithmetic",
+    "vocab_size": 4096,
+    "seed": 2024,
+    "accuracy_mean": 0.615952380952381,
+    "balanced_accuracy_mean": 0.615952380952381,
+    "kappa_mean": 0.2319047619047619
+  },
+  {
+    "dataset": "epfl_p300",
+    "vocab_size": 4096,
+    "seed": 42,
+    "accuracy_mean": 0.6074652777777778,
+    "balanced_accuracy_mean": 0.5268402777777779,
+    "kappa_mean": 0.03472358910716703
+  },
+  {
+    "dataset": "epfl_p300",
+    "vocab_size": 4096,
+    "seed": 123,
+    "accuracy_mean": 0.6072916666666667,
+    "balanced_accuracy_mean": 0.5265972222222223,
+    "kappa_mean": 0.03442147348392553
+  },
+  {
+    "dataset": "epfl_p300",
+    "vocab_size": 4096,
+    "seed": 456,
+    "accuracy_mean": 0.6074652777777778,
+    "balanced_accuracy_mean": 0.5265625,
+    "kappa_mean": 0.034372155849467234
+  },
+  {
+    "dataset": "epfl_p300",
+    "vocab_size": 4096,
+    "seed": 789,
+    "accuracy_mean": 0.6076388888888888,
+    "balanced_accuracy_mean": 0.5268055555555555,
+    "kappa_mean": 0.03470150205366447
+  },
+  {
+    "dataset": "epfl_p300",
+    "vocab_size": 4096,
+    "seed": 2024,
+    "accuracy_mean": 0.6075810185185185,
+    "balanced_accuracy_mean": 0.5264930555555556,
+    "kappa_mean": 0.034350642916492334
+  },
+  {
+    "dataset": "ssvep_nakanishi",
+    "vocab_size": 4096,
+    "seed": 42,
+    "accuracy_mean": 0.07716049382716049,
+    "balanced_accuracy_mean": 0.07716049382716049,
+    "kappa_mean": -0.006734006734006728
+  },
+  {
+    "dataset": "ssvep_nakanishi",
+    "vocab_size": 4096,
+    "seed": 123,
+    "accuracy_mean": 0.07716049382716049,
+    "balanced_accuracy_mean": 0.07716049382716049,
+    "kappa_mean": -0.006734006734006753
+  },
+  {
+    "dataset": "ssvep_nakanishi",
+    "vocab_size": 4096,
+    "seed": 456,
+    "accuracy_mean": 0.07654320987654321,
+    "balanced_accuracy_mean": 0.07654320987654321,
+    "kappa_mean": -0.007407407407407394
+  },
+  {
+    "dataset": "ssvep_nakanishi",
+    "vocab_size": 4096,
+    "seed": 789,
+    "accuracy_mean": 0.07716049382716049,
+    "balanced_accuracy_mean": 0.07716049382716049,
+    "kappa_mean": -0.006734006734006728
+  },
+  {
+    "dataset": "ssvep_nakanishi",
+    "vocab_size": 4096,
+    "seed": 2024,
+    "accuracy_mean": 0.07654320987654321,
+    "balanced_accuracy_mean": 0.07654320987654321,
+    "kappa_mean": -0.007407407407407406
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "feature": "duration_ms",
+    "spearman_rho": -0.02400150048566787,
+    "p_value": 0.5623458376740968,
+    "p_bonferroni": 1.0,
+    "significant_001": false,
+    "significant_005": false
+  },
+  {
+    "feature": "dominant_freq_hz",
+    "spearman_rho": 0.5242427381803723,
+    "p_value": 1.3049134440600324e-42,
+    "p_bonferroni": 1.1744220996540292e-41,
+    "significant_001": true,
+    "significant_005": true,
+    "perm_p_value": 0.0
+  },
+  {
+    "feature": "spectral_entropy",
+    "spearman_rho": 0.5135629577434206,
+    "p_value": 1.1083727053943616e-40,
+    "p_bonferroni": 9.975354348549254e-40,
+    "significant_001": true,
+    "significant_005": true,
+    "perm_p_value": 0.0
+  },
+  {
+    "feature": "hjorth_complexity",
+    "spearman_rho": 0.41758364992658603,
+    "p_value": 4.332676428204392e-26,
+    "p_bonferroni": 3.899408785383953e-25,
+    "significant_001": true,
+    "significant_005": true,
+    "perm_p_value": 0.0
+  },
+  {
+    "feature": "band_delta",
+    "spearman_rho": NaN,
+    "p_value": NaN,
+    "p_bonferroni": NaN,
+    "significant_001": false,
+    "significant_005": false,
+    "note": "zero_variance_skipped"
+  },
+  {
+    "feature": "band_theta",
+    "spearman_rho": NaN,
+    "p_value": NaN,
+    "p_bonferroni": NaN,
+    "significant_001": false,
+    "significant_005": false,
+    "note": "zero_variance_skipped"
+  },
+  {
+    "feature": "band_alpha",
+    "spearman_rho": NaN,
+    "p_value": NaN,
+    "p_bonferroni": NaN,
+    "significant_001": false,
+    "significant_005": false,
+    "note": "zero_variance_skipped"
+  },
+  {
+    "feature": "band_beta",
+    "spearman_rho": 0.07436120267352463,
+    "p_value": 0.07230395236142423,
+    "p_bonferroni": 0.650735571252818,
+    "significant_001": false,
+    "significant_005": false
+  },
+  {
+    "feature": "band_gamma",
+    "spearman_rho": 0.526778004508798,
+    "p_value": 4.4409735390092345e-43,
+    "p_bonferroni": 3.996876185108311e-42,
+    "significant_001": true,
+    "significant_005": true,
+    "perm_p_value": 0.0
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "step": 1,
+    "pair": [
+      0,
+      0
+    ],
+    "new_id": 512,
+    "pair_count": 3970,
+    "total_tokens": 4995791,
+    "compression": 1.0004,
+    "elapsed_s": 0.01
+  }
+]

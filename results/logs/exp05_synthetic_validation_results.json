@@ -1,0 +1,592 @@
+{
+  "metadata": {
+    "experiment": "exp05_synthetic_validation",
+    "started_at": "2026-03-07T16:42:35.966923",
+    "completed_at": "2026-03-07T16:42:39.960901",
+    "n_results": 27
+  },
+  "results": [
+    {
+      "part": "A",
+      "signal": "alpha_10Hz",
+      "vocab_size": 1024,
+      "n_bpe_tokens": 1,
+      "compression_ratio": 15360.0,
+      "mean_token_length_ms": 60000.0,
+      "std_token_length_ms": 0.0,
+      "max_token_length_ms": 60000.0,
+      "top20_token_lengths_ms": [
+        60000.0
+      ],
+      "n_unique_tokens": 1,
+      "timestamp": "2026-03-07T16:42:36.070529"
+    },
+    {
+      "part": "A",
+      "signal": "alpha_10Hz",
+      "vocab_size": 4096,
+      "n_bpe_tokens": 1,
+      "compression_ratio": 15360.0,
+      "mean_token_length_ms": 60000.0,
+      "std_token_length_ms": 0.0,
+      "max_token_length_ms": 60000.0,
+      "top20_token_lengths_ms": [
+        60000.0
+      ],
+      "n_unique_tokens": 1,
+      "timestamp": "2026-03-07T16:42:36.175025"
+    },
+    {
+      "part": "A",
+      "signal": "alpha_10Hz",
+      "vocab_size": 8192,
+      "n_bpe_tokens": 1,
+      "compression_ratio": 15360.0,
+      "mean_token_length_ms": 60000.0,
+      "std_token_length_ms": 0.0,
+      "max_token_length_ms": 60000.0,
+      "top20_token_lengths_ms": [
+        60000.0
+      ],
+      "n_unique_tokens": 1,
+      "timestamp": "2026-03-07T16:42:36.278023"
+    },
+    {
+      "part": "A",
+      "signal": "theta_4Hz",
+      "vocab_size": 1024,
+      "n_bpe_tokens": 1,
+      "compression_ratio": 15360.0,
+      "mean_token_length_ms": 60000.0,
+      "std_token_length_ms": 0.0,
+      "max_token_length_ms": 60000.0,
+      "top20_token_lengths_ms": [
+        60000.0
+      ],
+      "n_unique_tokens": 1,
+      "timestamp": "2026-03-07T16:42:36.378022"
+    },
+    {
+      "part": "A",
+      "signal": "theta_4Hz",
+      "vocab_size": 4096,
+      "n_bpe_tokens": 1,
+      "compression_ratio": 15360.0,
+      "mean_token_length_ms": 60000.0,
+      "std_token_length_ms": 0.0,
+      "max_token_length_ms": 60000.0,
+      "top20_token_lengths_ms": [
+        60000.0
+      ],
+      "n_unique_tokens": 1,
+      "timestamp": "2026-03-07T16:42:36.480519"
+    },
+    {
+      "part": "A",
+      "signal": "theta_4Hz",
+      "vocab_size": 8192,
+      "n_bpe_tokens": 1,
+      "compression_ratio": 15360.0,
+      "mean_token_length_ms": 60000.0,
+      "std_token_length_ms": 0.0,
+      "max_token_length_ms": 60000.0,
+      "top20_token_lengths_ms": [
+        60000.0
+      ],
+      "n_unique_tokens": 1,
+      "timestamp": "2026-03-07T16:42:36.581516"
+    },
+    {
+      "part": "A",
+      "signal": "mixture_clean",
+      "vocab_size": 1024,
+      "n_bpe_tokens": 1,
+      "compression_ratio": 15360.0,
+      "mean_token_length_ms": 60000.0,
+      "std_token_length_ms": 0.0,
+      "max_token_length_ms": 60000.0,
+      "top20_token_lengths_ms": [
+        60000.0
+      ],
+      "n_unique_tokens": 1,
+      "timestamp": "2026-03-07T16:42:36.684014"
+    },
+    {
+      "part": "A",
+      "signal": "mixture_clean",
+      "vocab_size": 4096,
+      "n_bpe_tokens": 1,
+      "compression_ratio": 15360.0,
+      "mean_token_length_ms": 60000.0,
+      "std_token_length_ms": 0.0,
+      "max_token_length_ms": 60000.0,
+      "top20_token_lengths_ms": [
+        60000.0
+      ],
+      "n_unique_tokens": 1,
+      "timestamp": "2026-03-07T16:42:36.787011"
+    },
+    {
+      "part": "A",
+      "signal": "mixture_clean",
+      "vocab_size": 8192,
+      "n_bpe_tokens": 1,
+      "compression_ratio": 15360.0,
+      "mean_token_length_ms": 60000.0,
+      "std_token_length_ms": 0.0,
+      "max_token_length_ms": 60000.0,
+      "top20_token_lengths_ms": [
+        60000.0
+      ],
+      "n_unique_tokens": 1,
+      "timestamp": "2026-03-07T16:42:36.892015"
+    },
+    {
+      "part": "A",
+      "signal": "nonstationary",
+      "vocab_size": 1024,
+      "n_bpe_tokens": 1,
+      "compression_ratio": 15360.0,
+      "mean_token_length_ms": 60000.0,
+      "std_token_length_ms": 0.0,
+      "max_token_length_ms": 60000.0,
+      "top20_token_lengths_ms": [
+        60000.0
+      ],
+      "n_unique_tokens": 1,
+      "timestamp": "2026-03-07T16:42:36.994510"
+    },
+    {
+      "part": "A",
+      "signal": "nonstationary",
+      "vocab_size": 4096,
+      "n_bpe_tokens": 1,
+      "compression_ratio": 15360.0,
+      "mean_token_length_ms": 60000.0,
+      "std_token_length_ms": 0.0,
+      "max_token_length_ms": 60000.0,
+      "top20_token_lengths_ms": [
+        60000.0
+      ],
+      "n_unique_tokens": 1,
+      "timestamp": "2026-03-07T16:42:37.095520"
+    },
+    {
+      "part": "A",
+      "signal": "nonstationary",
+      "vocab_size": 8192,
+      "n_bpe_tokens": 1,
+      "compression_ratio": 15360.0,
+      "mean_token_length_ms": 60000.0,
+      "std_token_length_ms": 0.0,
+      "max_token_length_ms": 60000.0,
+      "top20_token_lengths_ms": [
+        60000.0
+      ],
+      "n_unique_tokens": 1,
+      "timestamp": "2026-03-07T16:42:37.196031"
+    },
+    {
+      "part": "A",
+      "signal": "mixture_snr10dB",
+      "vocab_size": 1024,
+      "n_bpe_tokens": 12086,
+      "compression_ratio": 1.270891941088863,
+      "mean_token_length_ms": 4.964421644878372,
+      "std_token_length_ms": 1.8548549119284785,
+      "max_token_length_ms": 11.71875,
+      "top20_token_lengths_ms": [
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625
+      ],
+      "n_unique_tokens": 1007,
+      "timestamp": "2026-03-07T16:42:37.240031"
+    },
+    {
+      "part": "A",
+      "signal": "mixture_snr10dB",
+      "vocab_size": 4096,
+      "n_bpe_tokens": 8647,
+      "compression_ratio": 1.7763386145483984,
+      "mean_token_length_ms": 6.938822713079681,
+      "std_token_length_ms": 4.523071401503481,
+      "max_token_length_ms": 54.6875,
+      "top20_token_lengths_ms": [
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625
+      ],
+      "n_unique_tokens": 2713,
+      "timestamp": "2026-03-07T16:42:37.306527"
+    },
+    {
+      "part": "A",
+      "signal": "mixture_snr10dB",
+      "vocab_size": 8192,
+      "n_bpe_tokens": 4551,
+      "compression_ratio": 3.3750823994726433,
+      "mean_token_length_ms": 13.183915622940013,
+      "std_token_length_ms": 6.710025307322762,
+      "max_token_length_ms": 82.03125,
+      "top20_token_lengths_ms": [
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125
+      ],
+      "n_unique_tokens": 4060,
+      "timestamp": "2026-03-07T16:42:37.485021"
+    },
+    {
+      "part": "A",
+      "signal": "mixture_snr5dB",
+      "vocab_size": 1024,
+      "n_bpe_tokens": 12471,
+      "compression_ratio": 1.2316574452730333,
+      "mean_token_length_ms": 4.811161895597787,
+      "std_token_length_ms": 1.7006282851374634,
+      "max_token_length_ms": 11.71875,
+      "top20_token_lengths_ms": [
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625
+      ],
+      "n_unique_tokens": 1013,
+      "timestamp": "2026-03-07T16:42:37.525020"
+    },
+    {
+      "part": "A",
+      "signal": "mixture_snr5dB",
+      "vocab_size": 4096,
+      "n_bpe_tokens": 8978,
+      "compression_ratio": 1.710848741367788,
+      "mean_token_length_ms": 6.683002895967921,
+      "std_token_length_ms": 3.798909487347022,
+      "max_token_length_ms": 42.96875,
+      "top20_token_lengths_ms": [
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625
+      ],
+      "n_unique_tokens": 3046,
+      "timestamp": "2026-03-07T16:42:37.588518"
+    },
+    {
+      "part": "A",
+      "signal": "mixture_snr5dB",
+      "vocab_size": 8192,
+      "n_bpe_tokens": 4882,
+      "compression_ratio": 3.146251536255633,
+      "mean_token_length_ms": 12.290045063498566,
+      "std_token_length_ms": 5.288863849067876,
+      "max_token_length_ms": 50.78125,
+      "top20_token_lengths_ms": [
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125
+      ],
+      "n_unique_tokens": 4477,
+      "timestamp": "2026-03-07T16:42:37.690015"
+    },
+    {
+      "part": "A",
+      "signal": "mixture_snr0dB",
+      "vocab_size": 1024,
+      "n_bpe_tokens": 12820,
+      "compression_ratio": 1.1981279251170047,
+      "mean_token_length_ms": 4.6801872074882995,
+      "std_token_length_ms": 1.5722031490441788,
+      "max_token_length_ms": 11.71875,
+      "top20_token_lengths_ms": [
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625
+      ],
+      "n_unique_tokens": 1015,
+      "timestamp": "2026-03-07T16:42:37.730014"
+    },
+    {
+      "part": "A",
+      "signal": "mixture_snr0dB",
+      "vocab_size": 4096,
+      "n_bpe_tokens": 9234,
+      "compression_ratio": 1.6634178037686809,
+      "mean_token_length_ms": 6.49772579597141,
+      "std_token_length_ms": 3.2074969964120212,
+      "max_token_length_ms": 39.0625,
+      "top20_token_lengths_ms": [
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625,
+        3.90625
+      ],
+      "n_unique_tokens": 3363,
+      "timestamp": "2026-03-07T16:42:37.794512"
+    },
+    {
+      "part": "A",
+      "signal": "mixture_snr0dB",
+      "vocab_size": 8192,
+      "n_bpe_tokens": 5138,
+      "compression_ratio": 2.9894900739587387,
+      "mean_token_length_ms": 11.677695601401323,
+      "std_token_length_ms": 4.528542269461794,
+      "max_token_length_ms": 42.96875,
+      "top20_token_lengths_ms": [
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125,
+        7.8125
+      ],
+      "n_unique_tokens": 4766,
+      "timestamp": "2026-03-07T16:42:37.970515"
+    },
+    {
+      "part": "B",
+      "signal": "realistic_eeg",
+      "vocab_size": 1024,
+      "n_subjects": 10,
+      "mean_compression": 1.1440872374938034,
+      "std_compression": 0.021456395768670724,
+      "mean_token_length_ms": 4.467543297940463,
+      "std_token_length_ms": 1.3805454190662867,
+      "median_token_length_ms": 3.90625,
+      "p95_token_length_ms": 7.8125,
+      "timestamp": "2026-03-07T16:42:38.113012"
+    },
+    {
+      "part": "B",
+      "signal": "realistic_eeg",
+      "vocab_size": 4096,
+      "n_subjects": 10,
+      "mean_compression": 1.2565446084621827,
+      "std_compression": 0.0896181175920484,
+      "mean_token_length_ms": 4.884879669130817,
+      "std_token_length_ms": 1.983411629681392,
+      "median_token_length_ms": 3.90625,
+      "p95_token_length_ms": 7.8125,
+      "timestamp": "2026-03-07T16:42:38.295008"
+    },
+    {
+      "part": "B",
+      "signal": "realistic_eeg",
+      "vocab_size": 8192,
+      "n_subjects": 10,
+      "mean_compression": 1.3236596517854917,
+      "std_compression": 0.17454940286921658,
+      "mean_token_length_ms": 5.0899219545300305,
+      "std_token_length_ms": 2.6673476902529205,
+      "median_token_length_ms": 3.90625,
+      "p95_token_length_ms": 7.8125,
+      "timestamp": "2026-03-07T16:42:38.625503"
+    },
+    {
+      "part": "C",
+      "vocab_size": 512,
+      "accuracy_mean": 0.8450000000000001,
+      "accuracy_std": 0.08860022573334675,
+      "confusion_matrix": [
+        [
+          83,
+          17
+        ],
+        [
+          14,
+          86
+        ]
+      ],
+      "n_trials": 200,
+      "snr_db": 10,
+      "timestamp": "2026-03-07T16:42:38.714123"
+    },
+    {
+      "part": "C",
+      "vocab_size": 1024,
+      "accuracy_mean": 0.805,
+      "accuracy_std": 0.05338539126015655,
+      "confusion_matrix": [
+        [
+          79,
+          21
+        ],
+        [
+          18,
+          82
+        ]
+      ],
+      "n_trials": 200,
+      "snr_db": 10,
+      "timestamp": "2026-03-07T16:42:38.831748"
+    },
+    {
+      "part": "C",
+      "vocab_size": 4096,
+      "accuracy_mean": 0.8299999999999998,
+      "accuracy_std": 0.08276472678623424,
+      "confusion_matrix": [
+        [
+          82,
+          18
+        ],
+        [
+          16,
+          84
+        ]
+      ],
+      "n_trials": 200,
+      "snr_db": 10,
+      "timestamp": "2026-03-07T16:42:39.047780"
+    }
+  ]
+}

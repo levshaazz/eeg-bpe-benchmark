@@ -1,0 +1,266 @@
+[
+  {
+    "step": 1,
+    "pair": [
+      0,
+      0
+    ],
+    "new_id": 256,
+    "pair_count": 4566,
+    "total_tokens": 4995453,
+    "compression": 1.0005,
+    "elapsed_s": 0.01
+  },
+  {
+    "step": 90,
+    "pair": [
+      206,
+      208
+    ],
+    "new_id": 345,
+    "pair_count": 1143,
+    "total_tokens": 4839778,
+    "compression": 1.0327,
+    "elapsed_s": 0.74
+  },
+  {
+    "step": 179,
+    "pair": [
+      202,
+      198
+    ],
+    "new_id": 434,
+    "pair_count": 646,
+    "total_tokens": 4766298,
+    "compression": 1.0486,
+    "elapsed_s": 1.1
+  },
+  {
+    "step": 268,
+    "pair": [
+      207,
+      194
+    ],
+    "new_id": 523,
+    "pair_count": 461,
+    "total_tokens": 4718718,
+    "compression": 1.0592,
+    "elapsed_s": 1.34
+  },
+  {
+    "step": 357,
+    "pair": [
+      66,
+      53
+    ],
+    "new_id": 612,
+    "pair_count": 356,
+    "total_tokens": 4683133,
+    "compression": 1.0672,
+    "elapsed_s": 1.53
+  },
+  {
+    "step": 446,
+    "pair": [
+      186,
+      191
+    ],
+    "new_id": 701,
+    "pair_count": 284,
+    "total_tokens": 4654987,
+    "compression": 1.0737,
+    "elapsed_s": 1.69
+  },
+  {
+    "step": 535,
+    "pair": [
+      63,
+      74
+    ],
+    "new_id": 790,
+    "pair_count": 247,
+    "total_tokens": 4631366,
+    "compression": 1.0792,
+    "elapsed_s": 1.81
+  },
+  {
+    "step": 624,
+    "pair": [
+      210,
+      187
+    ],
+    "new_id": 879,
+    "pair_count": 216,
+    "total_tokens": 4610942,
+    "compression": 1.0839,
+    "elapsed_s": 1.92
+  },
+  {
+    "step": 713,
+    "pair": [
+      180,
+      205
+    ],
+    "new_id": 968,
+    "pair_count": 190,
+    "total_tokens": 4592975,
+    "compression": 1.0882,
+    "elapsed_s": 2.01
+  },
+  {
+    "step": 802,
+    "pair": [
+      226,
+      278
+    ],
+    "new_id": 1057,
+    "pair_count": 171,
+    "total_tokens": 4577022,
+    "compression": 1.092,
+    "elapsed_s": 2.1
+  },
+  {
+    "step": 891,
+    "pair": [
+      223,
+      288
+    ],
+    "new_id": 1146,
+    "pair_count": 154,
+    "total_tokens": 4562648,
+    "compression": 1.0954,
+    "elapsed_s": 7.18
+  },
+  {
+    "step": 980,
+    "pair": [
+      58,
+      83
+    ],
+    "new_id": 1235,
+    "pair_count": 141,
+    "total_tokens": 4549598,
+    "compression": 1.0986,
+    "elapsed_s": 7.26
+  },
+  {
+    "step": 1069,
+    "pair": [
+      24,
+      271
+    ],
+    "new_id": 1324,
+    "pair_count": 126,
+    "total_tokens": 4537736,
+    "compression": 1.1014,
+    "elapsed_s": 7.33
+  },
+  {
+    "step": 1158,
+    "pair": [
+      38,
+      297
+    ],
+    "new_id": 1413,
+    "pair_count": 117,
+    "total_tokens": 4526897,
+    "compression": 1.1041,
+    "elapsed_s": 7.4
+  },
+  {
+    "step": 1247,
+    "pair": [
+      66,
+      188
+    ],
+    "new_id": 1502,
+    "pair_count": 109,
+    "total_tokens": 4516835,
+    "compression": 1.1065,
+    "elapsed_s": 7.46
+  },
+  {
+    "step": 1336,
+    "pair": [
+      63,
+      89
+    ],
+    "new_id": 1591,
+    "pair_count": 104,
+    "total_tokens": 4507354,
+    "compression": 1.1089,
+    "elapsed_s": 7.51
+  },
+  {
+    "step": 1425,
+    "pair": [
+      181,
+      71
+    ],
+    "new_id": 1680,
+    "pair_count": 100,
+    "total_tokens": 4498273,
+    "compression": 1.1111,
+    "elapsed_s": 7.57
+  },
+  {
+    "step": 1514,
+    "pair": [
+      76,
+      39
+    ],
+    "new_id": 1769,
+    "pair_count": 96,
+    "total_tokens": 4489544,
+    "compression": 1.1133,
+    "elapsed_s": 7.62
+  },
+  {
+    "step": 1603,
+    "pair": [
+      190,
+      55
+    ],
+    "new_id": 1858,
+    "pair_count": 93,
+    "total_tokens": 4481141,
+    "compression": 1.1153,
+    "elapsed_s": 7.68
+  },
+  {
+    "step": 1692,
+    "pair": [
+      195,
+      60
+    ],
+    "new_id": 1947,
+    "pair_count": 90,
+    "total_tokens": 4473004,
+    "compression": 1.1174,
+    "elapsed_s": 7.73
+  },
+  {
+    "step": 1781,
+    "pair": [
+      218,
+      314
+    ],
+    "new_id": 2036,
+    "pair_count": 88,
+    "total_tokens": 4465103,
+    "compression": 1.1193,
+    "elapsed_s": 7.77
+  },
+  {
+    "step": 1792,
+    "pair": [
+      38,
+      294
+    ],
+    "new_id": 2047,
+    "pair_count": 87,
+    "total_tokens": 4464138,
+    "compression": 1.1196,
+    "elapsed_s": 7.78
+  }
+]

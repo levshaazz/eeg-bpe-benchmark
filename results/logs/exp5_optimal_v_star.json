@@ -1,0 +1,32 @@
+{
+  "bci_iv_2a": {
+    "V_star": 1024,
+    "accuracy": 0.2746527777777777,
+    "compression_ratio": 1.1614668326277406
+  },
+  "physionet_mi": {
+    "V_star": 512,
+    "accuracy": 0.2533333333333333,
+    "compression_ratio": 1.1302789767914088
+  },
+  "sleep_edf": {
+    "V_star": 16384,
+    "accuracy": 0.5904108851175941,
+    "compression_ratio": 1.179166872747914
+  },
+  "mental_arithmetic": {
+    "V_star": 512,
+    "accuracy": 0.5599999999999999,
+    "compression_ratio": 1.3858531141578267
+  },
+  "epfl_p300": {
+    "V_star": 32768,
+    "accuracy": 0.6278935185185185,
+    "compression_ratio": 1.7933221962715695
+  },
+  "ssvep_nakanishi": {
+    "V_star": 1024,
+    "accuracy": 0.0888888888888888,
+    "compression_ratio": 5.321822004799778
+  }
+}

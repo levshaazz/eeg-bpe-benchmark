@@ -1,0 +1,254 @@
+[
+  {
+    "step": 1,
+    "pair": [
+      15,
+      15
+    ],
+    "new_id": 32,
+    "pair_count": 83,
+    "total_tokens": 254,
+    "compression": 1.1811,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 3,
+    "pair": [
+      10,
+      10
+    ],
+    "new_id": 34,
+    "pair_count": 52,
+    "total_tokens": 182,
+    "compression": 1.6484,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 5,
+    "pair": [
+      33,
+      33
+    ],
+    "new_id": 36,
+    "pair_count": 36,
+    "total_tokens": 146,
+    "compression": 2.0548,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 7,
+    "pair": [
+      35,
+      35
+    ],
+    "new_id": 38,
+    "pair_count": 17,
+    "total_tokens": 125,
+    "compression": 2.4,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 9,
+    "pair": [
+      38,
+      38
+    ],
+    "new_id": 40,
+    "pair_count": 8,
+    "total_tokens": 112,
+    "compression": 2.6786,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 11,
+    "pair": [
+      9,
+      37
+    ],
+    "new_id": 42,
+    "pair_count": 7,
+    "total_tokens": 101,
+    "compression": 2.9703,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 13,
+    "pair": [
+      17,
+      32
+    ],
+    "new_id": 44,
+    "pair_count": 6,
+    "total_tokens": 89,
+    "compression": 3.3708,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 15,
+    "pair": [
+      16,
+      32
+    ],
+    "new_id": 46,
+    "pair_count": 3,
+    "total_tokens": 80,
+    "compression": 3.75,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 17,
+    "pair": [
+      18,
+      45
+    ],
+    "new_id": 48,
+    "pair_count": 3,
+    "total_tokens": 74,
+    "compression": 4.0541,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 19,
+    "pair": [
+      19,
+      45
+    ],
+    "new_id": 50,
+    "pair_count": 3,
+    "total_tokens": 68,
+    "compression": 4.4118,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 21,
+    "pair": [
+      20,
+      51
+    ],
+    "new_id": 52,
+    "pair_count": 3,
+    "total_tokens": 62,
+    "compression": 4.8387,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 23,
+    "pair": [
+      34,
+      10
+    ],
+    "new_id": 54,
+    "pair_count": 3,
+    "total_tokens": 56,
+    "compression": 5.3571,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 25,
+    "pair": [
+      41,
+      41
+    ],
+    "new_id": 56,
+    "pair_count": 3,
+    "total_tokens": 52,
+    "compression": 5.7692,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 27,
+    "pair": [
+      43,
+      52
+    ],
+    "new_id": 58,
+    "pair_count": 3,
+    "total_tokens": 46,
+    "compression": 6.5217,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 29,
+    "pair": [
+      47,
+      50
+    ],
+    "new_id": 60,
+    "pair_count": 3,
+    "total_tokens": 40,
+    "compression": 7.5,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 31,
+    "pair": [
+      61,
+      60
+    ],
+    "new_id": 62,
+    "pair_count": 3,
+    "total_tokens": 34,
+    "compression": 8.8235,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 33,
+    "pair": [
+      42,
+      63
+    ],
+    "new_id": 64,
+    "pair_count": 2,
+    "total_tokens": 30,
+    "compression": 10.0,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 35,
+    "pair": [
+      62,
+      62
+    ],
+    "new_id": 66,
+    "pair_count": 2,
+    "total_tokens": 27,
+    "compression": 11.1111,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 37,
+    "pair": [
+      9,
+      57
+    ],
+    "new_id": 68,
+    "pair_count": 1,
+    "total_tokens": 25,
+    "compression": 12.0,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 39,
+    "pair": [
+      9,
+      68
+    ],
+    "new_id": 70,
+    "pair_count": 1,
+    "total_tokens": 23,
+    "compression": 13.0435,
+    "elapsed_s": 0.0
+  },
+  {
+    "step": 40,
+    "pair": [
+      10,
+      69
+    ],
+    "new_id": 71,
+    "pair_count": 1,
+    "total_tokens": 22,
+    "compression": 13.6364,
+    "elapsed_s": 0.0
+  }
+]

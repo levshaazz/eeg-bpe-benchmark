@@ -1,0 +1,806 @@
+{
+  "heaps_points": [
+    {
+      "corpus_size": 315201,
+      "n_unique": 7671
+    },
+    {
+      "corpus_size": 948956,
+      "n_unique": 10646
+    },
+    {
+      "corpus_size": 1900939,
+      "n_unique": 12284
+    },
+    {
+      "corpus_size": 2856501,
+      "n_unique": 13052
+    },
+    {
+      "corpus_size": 3807599,
+      "n_unique": 13535
+    },
+    {
+      "corpus_size": 4443526,
+      "n_unique": 13769
+    },
+    {
+      "corpus_size": 5388753,
+      "n_unique": 14010
+    },
+    {
+      "corpus_size": 6325862,
+      "n_unique": 14215
+    },
+    {
+      "corpus_size": 6999185,
+      "n_unique": 14395
+    },
+    {
+      "corpus_size": 7101518,
+      "n_unique": 14440
+    },
+    {
+      "corpus_size": 7255745,
+      "n_unique": 14500
+    },
+    {
+      "corpus_size": 7413381,
+      "n_unique": 14535
+    },
+    {
+      "corpus_size": 7565758,
+      "n_unique": 14575
+    },
+    {
+      "corpus_size": 7671842,
+      "n_unique": 14592
+    },
+    {
+      "corpus_size": 7825433,
+      "n_unique": 14616
+    },
+    {
+      "corpus_size": 7977617,
+      "n_unique": 14637
+    },
+    {
+      "corpus_size": 8128487,
+      "n_unique": 14674
+    },
+    {
+      "corpus_size": 8226340,
+      "n_unique": 14690
+    },
+    {
+      "corpus_size": 8376645,
+      "n_unique": 14706
+    },
+    {
+      "corpus_size": 8529916,
+      "n_unique": 14721
+    },
+    {
+      "corpus_size": 8681457,
+      "n_unique": 14738
+    },
+    {
+      "corpus_size": 8783094,
+      "n_unique": 14748
+    },
+    {
+      "corpus_size": 8940027,
+      "n_unique": 14764
+    },
+    {
+      "corpus_size": 9108022,
+      "n_unique": 14768
+    },
+    {
+      "corpus_size": 9272115,
+      "n_unique": 14774
+    },
+    {
+      "corpus_size": 9379810,
+      "n_unique": 14779
+    },
+    {
+      "corpus_size": 9533168,
+      "n_unique": 14789
+    },
+    {
+      "corpus_size": 9685157,
+      "n_unique": 14799
+    },
+    {
+      "corpus_size": 9843002,
+      "n_unique": 14806
+    },
+    {
+      "corpus_size": 9996794,
+      "n_unique": 14823
+    },
+    {
+      "corpus_size": 10101005,
+      "n_unique": 14835
+    },
+    {
+      "corpus_size": 10257112,
+      "n_unique": 14844
+    },
+    {
+      "corpus_size": 10323987,
+      "n_unique": 14844
+    },
+    {
+      "corpus_size": 10389851,
+      "n_unique": 14844
+    },
+    {
+      "corpus_size": 10435160,
+      "n_unique": 14844
+    },
+    {
+      "corpus_size": 10501731,
+      "n_unique": 14844
+    },
+    {
+      "corpus_size": 10568275,
+      "n_unique": 14844
+    },
+    {
+      "corpus_size": 10634478,
+      "n_unique": 14844
+    },
+    {
+      "corpus_size": 10678232,
+      "n_unique": 14844
+    },
+    {
+      "corpus_size": 10744410,
+      "n_unique": 14844
+    },
+    {
+      "corpus_size": 10810196,
+      "n_unique": 14844
+    },
+    {
+      "corpus_size": 10875807,
+      "n_unique": 14845
+    },
+    {
+      "corpus_size": 10919504,
+      "n_unique": 14846
+    },
+    {
+      "corpus_size": 10985569,
+      "n_unique": 14849
+    },
+    {
+      "corpus_size": 11050974,
+      "n_unique": 14850
+    },
+    {
+      "corpus_size": 11117070,
+      "n_unique": 14850
+    },
+    {
+      "corpus_size": 11163758,
+      "n_unique": 14850
+    },
+    {
+      "corpus_size": 11234131,
+      "n_unique": 14850
+    },
+    {
+      "corpus_size": 11301642,
+      "n_unique": 14851
+    },
+    {
+      "corpus_size": 11366660,
+      "n_unique": 14851
+    },
+    {
+      "corpus_size": 11409909,
+      "n_unique": 14852
+    },
+    {
+      "corpus_size": 11475378,
+      "n_unique": 14852
+    },
+    {
+      "corpus_size": 11539928,
+      "n_unique": 14852
+    },
+    {
+      "corpus_size": 11604490,
+      "n_unique": 14852
+    },
+    {
+      "corpus_size": 11648059,
+      "n_unique": 14852
+    },
+    {
+      "corpus_size": 14722840,
+      "n_unique": 14927
+    },
+    {
+      "corpus_size": 14813931,
+      "n_unique": 15507
+    },
+    {
+      "corpus_size": 14904766,
+      "n_unique": 15653
+    },
+    {
+      "corpus_size": 14996316,
+      "n_unique": 15721
+    },
+    {
+      "corpus_size": 15058100,
+      "n_unique": 15744
+    },
+    {
+      "corpus_size": 15151773,
+      "n_unique": 15779
+    },
+    {
+      "corpus_size": 15244531,
+      "n_unique": 15807
+    },
+    {
+      "corpus_size": 15334000,
+      "n_unique": 15831
+    },
+    {
+      "corpus_size": 15392559,
+      "n_unique": 15844
+    },
+    {
+      "corpus_size": 15473111,
+      "n_unique": 15866
+    },
+    {
+      "corpus_size": 15560026,
+      "n_unique": 15871
+    },
+    {
+      "corpus_size": 15647223,
+      "n_unique": 15885
+    },
+    {
+      "corpus_size": 15704157,
+      "n_unique": 15894
+    },
+    {
+      "corpus_size": 15788707,
+      "n_unique": 15915
+    },
+    {
+      "corpus_size": 15883810,
+      "n_unique": 15921
+    },
+    {
+      "corpus_size": 15977368,
+      "n_unique": 15924
+    },
+    {
+      "corpus_size": 16047368,
+      "n_unique": 15925
+    },
+    {
+      "corpus_size": 16139955,
+      "n_unique": 15929
+    },
+    {
+      "corpus_size": 16231502,
+      "n_unique": 15933
+    },
+    {
+      "corpus_size": 16324755,
+      "n_unique": 15935
+    },
+    {
+      "corpus_size": 16385589,
+      "n_unique": 15937
+    },
+    {
+      "corpus_size": 16471037,
+      "n_unique": 15942
+    },
+    {
+      "corpus_size": 16557798,
+      "n_unique": 15947
+    },
+    {
+      "corpus_size": 16640126,
+      "n_unique": 15950
+    },
+    {
+      "corpus_size": 16697273,
+      "n_unique": 15951
+    },
+    {
+      "corpus_size": 16784756,
+      "n_unique": 15953
+    },
+    {
+      "corpus_size": 16872880,
+      "n_unique": 15955
+    },
+    {
+      "corpus_size": 16960856,
+      "n_unique": 15957
+    },
+    {
+      "corpus_size": 17018956,
+      "n_unique": 15963
+    },
+    {
+      "corpus_size": 17100027,
+      "n_unique": 15968
+    },
+    {
+      "corpus_size": 17179590,
+      "n_unique": 15975
+    },
+    {
+      "corpus_size": 17265724,
+      "n_unique": 15976
+    },
+    {
+      "corpus_size": 17350447,
+      "n_unique": 15982
+    },
+    {
+      "corpus_size": 17408959,
+      "n_unique": 15983
+    },
+    {
+      "corpus_size": 17495194,
+      "n_unique": 15983
+    },
+    {
+      "corpus_size": 17575278,
+      "n_unique": 15983
+    },
+    {
+      "corpus_size": 17655110,
+      "n_unique": 15986
+    },
+    {
+      "corpus_size": 17708452,
+      "n_unique": 15988
+    },
+    {
+      "corpus_size": 17797027,
+      "n_unique": 15989
+    },
+    {
+      "corpus_size": 17886537,
+      "n_unique": 15991
+    },
+    {
+      "corpus_size": 17977711,
+      "n_unique": 15992
+    },
+    {
+      "corpus_size": 18034007,
+      "n_unique": 15993
+    },
+    {
+      "corpus_size": 18115399,
+      "n_unique": 15995
+    },
+    {
+      "corpus_size": 18198631,
+      "n_unique": 15995
+    },
+    {
+      "corpus_size": 18285337,
+      "n_unique": 15996
+    },
+    {
+      "corpus_size": 18343019,
+      "n_unique": 15996
+    },
+    {
+      "corpus_size": 18435360,
+      "n_unique": 15998
+    },
+    {
+      "corpus_size": 18528541,
+      "n_unique": 15999
+    },
+    {
+      "corpus_size": 18616024,
+      "n_unique": 15999
+    },
+    {
+      "corpus_size": 18670783,
+      "n_unique": 16000
+    },
+    {
+      "corpus_size": 18754903,
+      "n_unique": 16001
+    },
+    {
+      "corpus_size": 18842663,
+      "n_unique": 16001
+    },
+    {
+      "corpus_size": 18929013,
+      "n_unique": 16003
+    },
+    {
+      "corpus_size": 18985069,
+      "n_unique": 16004
+    },
+    {
+      "corpus_size": 19068897,
+      "n_unique": 16004
+    },
+    {
+      "corpus_size": 19150311,
+      "n_unique": 16004
+    },
+    {
+      "corpus_size": 19233655,
+      "n_unique": 16005
+    },
+    {
+      "corpus_size": 19290383,
+      "n_unique": 16005
+    },
+    {
+      "corpus_size": 19377250,
+      "n_unique": 16005
+    },
+    {
+      "corpus_size": 19464428,
+      "n_unique": 16006
+    },
+    {
+      "corpus_size": 19554888,
+      "n_unique": 16006
+    },
+    {
+      "corpus_size": 19643609,
+      "n_unique": 16008
+    },
+    {
+      "corpus_size": 19703219,
+      "n_unique": 16008
+    },
+    {
+      "corpus_size": 19786187,
+      "n_unique": 16008
+    },
+    {
+      "corpus_size": 19869809,
+      "n_unique": 16008
+    },
+    {
+      "corpus_size": 19951319,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 20005824,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 20091514,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 20174331,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 20443786,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 20866397,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 21519424,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 22180939,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 22823871,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 23249221,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 23891336,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 24539116,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 25210895,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 25665129,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 26347341,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 27021536,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 27648959,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 28065664,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 28693786,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 29316100,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 29935589,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 30346734,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 30972452,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 31596050,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 32234586,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 32857651,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 33274907,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 33895672,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 34483363,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 35091591,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 35499953,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 36085442,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 36687103,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 37283124,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 37674038,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 38275815,
+      "n_unique": 16009
+    },
+    {
+      "corpus_size": 38879158,
+      "n_unique": 16010
+    },
+    {
+      "corpus_size": 39477255,
+      "n_unique": 16010
+    },
+    {
+      "corpus_size": 39871020,
+      "n_unique": 16010
+    },
+    {
+      "corpus_size": 40477583,
+      "n_unique": 16010
+    },
+    {
+      "corpus_size": 41134758,
+      "n_unique": 16010
+    },
+    {
+      "corpus_size": 41795996,
+      "n_unique": 16011
+    },
+    {
+      "corpus_size": 42243975,
+      "n_unique": 16011
+    },
+    {
+      "corpus_size": 42889430,
+      "n_unique": 16011
+    },
+    {
+      "corpus_size": 43539922,
+      "n_unique": 16011
+    },
+    {
+      "corpus_size": 44177502,
+      "n_unique": 16011
+    },
+    {
+      "corpus_size": 44608419,
+      "n_unique": 16011
+    },
+    {
+      "corpus_size": 45260639,
+      "n_unique": 16011
+    },
+    {
+      "corpus_size": 45904078,
+      "n_unique": 16011
+    },
+    {
+      "corpus_size": 46545616,
+      "n_unique": 16011
+    },
+    {
+      "corpus_size": 46973710,
+      "n_unique": 16011
+    },
+    {
+      "corpus_size": 47579066,
+      "n_unique": 16011
+    },
+    {
+      "corpus_size": 48194487,
+      "n_unique": 16011
+    },
+    {
+      "corpus_size": 48815649,
+      "n_unique": 16011
+    },
+    {
+      "corpus_size": 49391681,
+      "n_unique": 16011
+    },
+    {
+      "corpus_size": 49795666,
+      "n_unique": 16011
+    },
+    {
+      "corpus_size": 50410141,
+      "n_unique": 16011
+    },
+    {
+      "corpus_size": 50969223,
+      "n_unique": 16011
+    },
+    {
+      "corpus_size": 51575441,
+      "n_unique": 16011
+    },
+    {
+      "corpus_size": 51999422,
+      "n_unique": 16012
+    },
+    {
+      "corpus_size": 52544362,
+      "n_unique": 16012
+    },
+    {
+      "corpus_size": 53138640,
+      "n_unique": 16012
+    },
+    {
+      "corpus_size": 53533930,
+      "n_unique": 16318
+    },
+    {
+      "corpus_size": 53570398,
+      "n_unique": 16368
+    },
+    {
+      "corpus_size": 53642712,
+      "n_unique": 16377
+    },
+    {
+      "corpus_size": 53693286,
+      "n_unique": 16383
+    },
+    {
+      "corpus_size": 53771146,
+      "n_unique": 16384
+    },
+    {
+      "corpus_size": 53825990,
+      "n_unique": 16384
+    },
+    {
+      "corpus_size": 53873174,
+      "n_unique": 16384
+    },
+    {
+      "corpus_size": 53947282,
+      "n_unique": 16384
+    },
+    {
+      "corpus_size": 54034499,
+      "n_unique": 16384
+    },
+    {
+      "corpus_size": 54095686,
+      "n_unique": 16384
+    },
+    {
+      "corpus_size": 54181077,
+      "n_unique": 16384
+    },
+    {
+      "corpus_size": 54272330,
+      "n_unique": 16384
+    },
+    {
+      "corpus_size": 54346786,
+      "n_unique": 16384
+    },
+    {
+      "corpus_size": 54378495,
+      "n_unique": 16384
+    },
+    {
+      "corpus_size": 54431155,
+      "n_unique": 16384
+    },
+    {
+      "corpus_size": 54506732,
+      "n_unique": 16384
+    },
+    {
+      "corpus_size": 54567712,
+      "n_unique": 16384
+    },
+    {
+      "corpus_size": 54605506,
+      "n_unique": 16384
+    }
+  ],
+  "final_unique": 16384,
+  "final_size": 54605506
+}

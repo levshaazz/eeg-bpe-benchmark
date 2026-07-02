@@ -1,0 +1,10 @@
+feature,spearman_rho,p_value,p_bonferroni,significant_001,significant_005,note
+duration_ms,-0.02400150048566787,0.5623458376740968,1.0,False,False,
+dominant_freq_hz,0.5242427381803723,1.3049134440600324e-42,1.1744220996540292e-41,True,True,
+spectral_entropy,0.5135629577434206,1.1083727053943616e-40,9.975354348549254e-40,True,True,
+hjorth_complexity,0.41758364992658603,4.332676428204392e-26,3.899408785383953e-25,True,True,
+band_delta,nan,nan,nan,False,False,zero_variance_skipped
+band_theta,nan,nan,nan,False,False,zero_variance_skipped
+band_alpha,nan,nan,nan,False,False,zero_variance_skipped
+band_beta,0.07436120267352463,0.07230395236142423,0.650735571252818,False,False,
+band_gamma,0.526778004508798,4.4409735390092345e-43,3.996876185108311e-42,True,True,

@@ -1,0 +1,254 @@
+[
+  {
+    "step": 1,
+    "pair": [
+      0,
+      0
+    ],
+    "new_id": 64,
+    "pair_count": 49831,
+    "total_tokens": 4970111,
+    "compression": 1.0056,
+    "elapsed_s": 0.11
+  },
+  {
+    "step": 49,
+    "pair": [
+      43,
+      43
+    ],
+    "new_id": 112,
+    "pair_count": 4607,
+    "total_tokens": 4601267,
+    "compression": 1.0862,
+    "elapsed_s": 1.72
+  },
+  {
+    "step": 97,
+    "pair": [
+      58,
+      78
+    ],
+    "new_id": 160,
+    "pair_count": 1377,
+    "total_tokens": 4465251,
+    "compression": 1.1193,
+    "elapsed_s": 2.49
+  },
+  {
+    "step": 145,
+    "pair": [
+      61,
+      136
+    ],
+    "new_id": 208,
+    "pair_count": 757,
+    "total_tokens": 4417178,
+    "compression": 1.1315,
+    "elapsed_s": 2.84
+  },
+  {
+    "step": 193,
+    "pair": [
+      93,
+      1
+    ],
+    "new_id": 256,
+    "pair_count": 557,
+    "total_tokens": 4386745,
+    "compression": 1.1393,
+    "elapsed_s": 3.06
+  },
+  {
+    "step": 241,
+    "pair": [
+      74,
+      60
+    ],
+    "new_id": 304,
+    "pair_count": 451,
+    "total_tokens": 4362983,
+    "compression": 1.1455,
+    "elapsed_s": 3.24
+  },
+  {
+    "step": 289,
+    "pair": [
+      15,
+      104
+    ],
+    "new_id": 352,
+    "pair_count": 386,
+    "total_tokens": 4343099,
+    "compression": 1.1508,
+    "elapsed_s": 3.39
+  },
+  {
+    "step": 337,
+    "pair": [
+      41,
+      109
+    ],
+    "new_id": 400,
+    "pair_count": 344,
+    "total_tokens": 4325692,
+    "compression": 1.1554,
+    "elapsed_s": 3.53
+  },
+  {
+    "step": 385,
+    "pair": [
+      7,
+      153
+    ],
+    "new_id": 448,
+    "pair_count": 313,
+    "total_tokens": 4309992,
+    "compression": 1.1596,
+    "elapsed_s": 3.65
+  },
+  {
+    "step": 433,
+    "pair": [
+      41,
+      114
+    ],
+    "new_id": 496,
+    "pair_count": 294,
+    "total_tokens": 4295464,
+    "compression": 1.1636,
+    "elapsed_s": 3.74
+  },
+  {
+    "step": 481,
+    "pair": [
+      36,
+      122
+    ],
+    "new_id": 544,
+    "pair_count": 273,
+    "total_tokens": 4281983,
+    "compression": 1.1672,
+    "elapsed_s": 3.84
+  },
+  {
+    "step": 529,
+    "pair": [
+      2,
+      180
+    ],
+    "new_id": 592,
+    "pair_count": 252,
+    "total_tokens": 4269427,
+    "compression": 1.1706,
+    "elapsed_s": 3.94
+  },
+  {
+    "step": 577,
+    "pair": [
+      37,
+      116
+    ],
+    "new_id": 640,
+    "pair_count": 229,
+    "total_tokens": 4257934,
+    "compression": 1.1738,
+    "elapsed_s": 4.04
+  },
+  {
+    "step": 625,
+    "pair": [
+      54,
+      76
+    ],
+    "new_id": 688,
+    "pair_count": 210,
+    "total_tokens": 4247445,
+    "compression": 1.1767,
+    "elapsed_s": 4.13
+  },
+  {
+    "step": 673,
+    "pair": [
+      4,
+      139
+    ],
+    "new_id": 736,
+    "pair_count": 197,
+    "total_tokens": 4237707,
+    "compression": 1.1794,
+    "elapsed_s": 4.23
+  },
+  {
+    "step": 721,
+    "pair": [
+      34,
+      130
+    ],
+    "new_id": 784,
+    "pair_count": 184,
+    "total_tokens": 4228545,
+    "compression": 1.182,
+    "elapsed_s": 4.31
+  },
+  {
+    "step": 769,
+    "pair": [
+      162,
+      61
+    ],
+    "new_id": 832,
+    "pair_count": 174,
+    "total_tokens": 4219946,
+    "compression": 1.1844,
+    "elapsed_s": 4.38
+  },
+  {
+    "step": 817,
+    "pair": [
+      230,
+      5
+    ],
+    "new_id": 880,
+    "pair_count": 161,
+    "total_tokens": 4211986,
+    "compression": 1.1866,
+    "elapsed_s": 4.46
+  },
+  {
+    "step": 865,
+    "pair": [
+      12,
+      104
+    ],
+    "new_id": 928,
+    "pair_count": 148,
+    "total_tokens": 4204577,
+    "compression": 1.1887,
+    "elapsed_s": 4.53
+  },
+  {
+    "step": 913,
+    "pair": [
+      27,
+      113
+    ],
+    "new_id": 976,
+    "pair_count": 140,
+    "total_tokens": 4197662,
+    "compression": 1.1907,
+    "elapsed_s": 4.6
+  },
+  {
+    "step": 960,
+    "pair": [
+      81,
+      58
+    ],
+    "new_id": 1023,
+    "pair_count": 133,
+    "total_tokens": 4191278,
+    "compression": 1.1925,
+    "elapsed_s": 4.65
+  }
+]

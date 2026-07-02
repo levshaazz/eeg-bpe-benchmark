@@ -1,0 +1,11 @@
+{
+  "experiments": [
+    {
+      "name": "Exp 10: Cross-Dataset Transfer",
+      "elapsed_s": 1930.97,
+      "status": "ok"
+    }
+  ],
+  "total_time_s": 1932.06,
+  "total_time_str": "32m 12s"
+}
