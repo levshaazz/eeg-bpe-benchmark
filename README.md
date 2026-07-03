@@ -6,8 +6,7 @@ Reproducibility package for the paper:
 >
 > *English title:* Nasybullin A. A., Kornaev A. V. Waveform or rhythm: BPE tokenisation benchmark for EEG. *Proceedings of the Southwest State University. Computer Science, Computer Engineering and Control.* 2026.
 
-**Paper PDF**: [`writing/paper_journal.pdf`](writing/paper_journal.pdf) (27 pages)
-**LaTeX source**: [`writing/paper_journal.tex`](writing/paper_journal.tex)
+This repository provides the **code and result artefacts** needed to reproduce the paper's benchmark, ablations and figures. The paper source itself is distributed via the journal; see [Cite as](#cite-as) below.
 
 ## What this paper does
 
@@ -53,10 +52,6 @@ Full benchmark and ablations: see Table 3 and Ablation Studies section of the pa
 ├── scripts/                    result-processing scripts
 ├── results/logs/               experiment result CSVs + JSONs (134 files)
 ├── data_download/              dataset download scripts (raw data NOT bundled)
-├── writing/                    paper source
-│   ├── paper_journal.tex       LaTeX manuscript
-│   ├── paper_journal.pdf       compiled PDF (27 pp)
-│   └── figures/                figure sources (PDF + PNG)
 └── CONTRIBUTING.md
 ```
 
@@ -125,16 +120,6 @@ Result CSVs land in `results/logs/ablation_A*.csv` and are consumed by
 python scripts/generate_results_tables.py
 python scripts/key_findings.py
 ```
-
-## Recompiling the paper
-
-```bash
-cd writing
-pdflatex paper_journal.tex     # pass 1
-pdflatex paper_journal.tex     # pass 2 (for cross-references)
-```
-
-Requires MiKTeX or TeX Live with `tempora`, `babel[russian,english]`, `hyperref`, `booktabs`, `enumitem`, `multicol`, `mdframed`, `fancyhdr`.
 
 ## Datasets used (all public)
 
