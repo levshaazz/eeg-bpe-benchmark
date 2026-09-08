@@ -63,6 +63,34 @@ Sleep-EDF? BPE ≈ EEGNet. Motor imagery and SSVEP? Use PSD / FFT. That single d
 
 Cross-subject validation, 5 random seeds `[42, 123, 456, 789, 2024]`, cohort sizes 9–109 subjects. See `results/logs/exp2_downstream_results.csv` for the raw numbers.
 
+### Correction applied after submission
+
+The EPFL P300 corpus is served by MOABB as BNCI2014-009, decimated to
+**256 Hz**; the dataset registry carried **2048 Hz**, the rate of the
+original EPFL recording. The value is passed to every baseline, and two
+of them consume it, so two cells in the P300 column were wrong:
+
+| | as submitted | corrected |
+|---|---|---|
+| `PSD_LogReg` on P300 | 65.6% / κ=0.130 | **64.0% / κ=0.102** |
+| `Patching_LogReg` on P300 | 83.3% / κ=0.007 | **86.1% / κ=0.404** |
+
+`PSD_LogReg` received the wrong rate through `welch(fs=...)`: at a
+206-sample epoch the delta (1–4 Hz) and theta (4–8 Hz) bands selected zero
+bins and came out identically zero, which is where a P300 lives.
+`Patching_LogReg` received it through `patch_len = int(100 ms · fs/1000)`
+= 204 samples against a 206-sample epoch, collapsing the whole epoch into
+a single patch.
+
+The headline table above is unaffected: the best BPE variant and the best
+baseline on P300 are unchanged, and `Patching_LogReg` at 86.1% still sits
+below EEGNet at 88.0%. No conclusion in the paper changes. The logs in
+this repository carry the corrected values; a correction covering the two
+cells and the sampling rate has been prepared for the journal.
+
+The loader now checks the served epoch length against the registered rate
+and raises rather than silently rescaling the spectrum.
+
 ---
 
 ## The amplitude/frequency dichotomy, side by side

@@ -73,7 +73,12 @@ DATASET_INFO = {
         "paradigm": "P300",
         "n_classes": 2,
         "n_channels": 16,   # BNCI2014_009 (Hoffmann) — 16 ch after MOABB selection
-        "sfreq": 2048,
+        # MOABB serves this corpus as BNCI2014-009, decimated to 256 Hz.
+        # The original EPFL recording is 2048 Hz; using that figure here
+        # stretches the Welch frequency axis 8x and zeroes the delta and
+        # theta bands, which is where a P300 lives. Verified against the
+        # served data: 206 samples over MOABB's 0.8 s interval.
+        "sfreq": 256,
         "n_subjects": 10,   # 10 subjects (not 8); loader uses subjects 1-10
         "task": "P300-detection",
         "cv_strategy": "LOSO",

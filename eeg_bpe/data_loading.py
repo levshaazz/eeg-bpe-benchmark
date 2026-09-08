@@ -433,6 +433,52 @@ def load_mental_arithmetic(subjects: list[int] | None = None):
 
 # ─── EPFL P300 ────────────────────────────────────────────────────────────────
 
+def _epfl_p300_sfreq(dataset, n_times: int) -> float:
+    """Sampling rate of the served P300 epochs, checked against their length.
+
+    The registry is the single source of truth; this only verifies that the
+    data still matches it. MOABB serves this corpus as BNCI2014-009,
+    decimated to 256 Hz, while the original EPFL recording is 2048 Hz.
+    Substituting the latter does not raise anywhere -- it silently
+    rescales the Welch frequency axis by 8x in the PSD baseline -- so the
+    mismatch has to be caught here or not at all.
+
+    Parameters
+    ----------
+    dataset : moabb.datasets.base.BaseDataset
+        The dataset object, read for its epoch ``interval``.
+    n_times : int
+        Samples per served epoch.
+
+    Returns
+    -------
+    float
+        The registered sampling rate.
+
+    Raises
+    ------
+    ValueError
+        If the served epoch length is inconsistent with the registered
+        rate over the dataset's own epoch interval.
+    """
+    sfreq = float(DATASET_INFO["epfl_p300"]["sfreq"])
+    interval = getattr(dataset, "interval", None)
+    if interval is not None and len(interval) == 2:
+        window = float(interval[1]) - float(interval[0])
+        if window > 0:
+            # MNE epoching keeps both endpoints: round(sfreq*window) + 1.
+            expected = round(sfreq * window) + 1
+            if abs(n_times - expected) > 1:
+                implied = (n_times - 1) / window
+                raise ValueError(
+                    f"epfl_p300: {n_times} samples over a {window:g}s "
+                    f"window implies ~{implied:.1f} Hz, but the registry "
+                    f"says {sfreq:g} Hz (expected ~{expected} samples). "
+                    f"Fix DATASET_INFO rather than letting the PSD bands "
+                    f"shift silently.")
+    return sfreq
+
+
 def _load_epfl_p300_subject(subj: int, dataset, paradigm) -> tuple[int, dict | None]:
     """Load a single EPFL P300 subject and encode string labels to integers."""
     try:
@@ -444,7 +490,8 @@ def _load_epfl_p300_subject(subj: int, dataset, paradigm) -> tuple[int, dict | N
         label_map = {c: i for i, c in enumerate(classes)}
         y_int = np.array([label_map[c] for c in y], dtype=np.int64)
         return subj, {
-            "epochs": X, "labels": y_int, "sfreq": 2048.0,
+            "epochs": X, "labels": y_int,
+            "sfreq": _epfl_p300_sfreq(dataset, X.shape[-1]),
             "meta": meta, "class_names": classes,
         }
     except Exception as e:
