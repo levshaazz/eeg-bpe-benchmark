@@ -63,6 +63,33 @@ Sleep-EDF? BPE ≈ EEGNet. Motor imagery and SSVEP? Use PSD / FFT. That single d
 
 Cross-subject validation, 5 random seeds `[42, 123, 456, 789, 2024]`, cohort sizes 9–109 subjects. See `results/logs/exp2_downstream_results.csv` for the raw numbers.
 
+<details>
+<summary><b>Method names: paper ↔ logs</b></summary>
+
+The paper names methods by what they do; the logs and the code use the
+identifiers. Both refer to the same thing — this table is the bridge in
+either direction.
+
+| in the logs and the code | in the paper |
+|---|---|
+| `BPE_Hist_LogReg` | token histogram + LogReg |
+| `BPE_Hist_RF` | token histogram + RF |
+| `BPE_Seq_CNN` | token sequence + CNN |
+| `BPE_Windowed_LogReg` | windowed histograms + LogReg |
+| `BPE_WindowedSeq_CNN` | windowed histograms + CNN |
+| `BPE_CW_Transf` | channelwise Transformer |
+| `VQ_LogReg` | VQ + LogReg |
+| `PSD_LogReg` | PSD + LogReg |
+| `Patching_LogReg` | patches + LogReg |
+| `SSVEP_FFT_LogReg` | SSVEP FFT |
+| `Spatial_BPE_RF` | spatial BPE + RF |
+
+The identifier is what appears in the `classifier` column of
+`results/logs/exp2_downstream_results.csv`, so that is the string to grep
+for when checking a number against the paper.
+
+</details>
+
 ### Correction applied after submission
 
 The EPFL P300 corpus is served by MOABB as BNCI2014-009, decimated to
@@ -245,7 +272,7 @@ Total: **193 subjects across 6 datasets and 5 paradigm types.**
 
 ```bibtex
 @article{nasybullin2026waveform,
-  title   = {Waveform or rhythm: {BPE} tokenisation benchmark for {EEG}},
+  title   = {Waveform or rhythm? A {BPE} tokenisation benchmark for {EEG}},
   author  = {Nasybullin, Albert A. and Kornaev, Alexey V.},
   journal = {Proceedings of the Southwest State University.
              Computer Science, Computer Engineering and Control

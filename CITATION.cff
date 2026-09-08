@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this code or the findings, please cite the paper below."
-title: "Waveform or Rhythm: BPE Tokenisation Benchmark for EEG"
-version: "1.0.0"
+title: "Waveform or Rhythm? A BPE Tokenisation Benchmark for EEG"
+version: "1.0.1"
 authors:
   - family-names: Nasybullin
     given-names: Albert A.
@@ -14,7 +14,7 @@ authors:
     orcid: "https://orcid.org/0000-0001-5121-6045"
     email: "a.kornaev@innopolis.ru"
 license: MIT
-repository-code: "https://github.com/levshaazz/eeg-bpe-benchmark"
+repository-code: "https://github.com/levshaazz/waveform-or-rhythm"
 type: software
 keywords:
   - EEG
@@ -25,7 +25,7 @@ keywords:
   - benchmark
 preferred-citation:
   type: article
-  title: "Waveform or rhythm: BPE tokenisation benchmark for EEG"
+  title: "Waveform or rhythm? A BPE tokenisation benchmark for EEG"
   authors:
     - family-names: Nasybullin
       given-names: Albert A.
@@ -33,4 +33,4 @@ preferred-citation:
       given-names: Alexey V.
   journal: "Proceedings of the Southwest State University. Computer Science, Computer Engineering and Control"
   year: 2026
-  url: "https://github.com/levshaazz/eeg-bpe-benchmark"
+  url: "https://github.com/levshaazz/waveform-or-rhythm"
